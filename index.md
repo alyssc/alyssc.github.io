@@ -4,22 +4,28 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg" style="width:200px;height:200px;">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a student at Harvard studying applied math and computer science. This website is a work-in-progress. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Education
+### Harvard University, May 2022
 
-## Research Interest
+#### Selected Coursework 
+Machine Learning (@MIT), Data Structures and Algorithms, Biological and Artificial Intelligence, Economics of Networks, Fairness and Validity in Algorithms (graduate), Group Theory, Probability, Statistical Inference, Theoretical Linear Algebra, Real Analysis, Public Speaking Practicum, Physics: Mechanics and Special Relativity
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+## Work Experience
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### Secure AI Labs (SAIL) | Cambridge, MA / remote | May 2020 - August 2020
+* Developed and tested an accuracy-preserving federated version of XGBoost for SAIL’s secure computing platform.
+* Researched methods for developing differentially private versions of common algorithms.
 
-## Typography
+## Projects
+
+* C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.*
+
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -43,3 +49,6 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+
+-->

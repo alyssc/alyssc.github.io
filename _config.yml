@@ -1,13 +1,14 @@
-title: Researcher
+title: Alyssa Chen
+authors: Alyssa Chen
 url: "https://ankitsultana.com"
-baseurl: "/researcher"
+baseurl: "/alyssa"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -16,9 +17,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "About me"
+   link: "/alyssa/"
+# - name: "Resume"
+#   link: "resume.pdf"
  - name: "Contact"
    link: "contact"

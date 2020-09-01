@@ -3,24 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [alyssachen@college.harvard.edu](mailto:alyssachen@college.harvard.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [973-568-2886](tel:+1-973-568-2886)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* Linkedin: [alyssa-t-chen](https://www.linkedin.com/in/alyssa-t-chen/)
