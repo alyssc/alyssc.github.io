@@ -1,7 +1,7 @@
 title: Alyssa Chen
 authors: Alyssa Chen
-url: "https://alyssc.github.io/personalsite/"
-baseurl: "/alyssa"
+url: ""
+baseurl: "/personalsite"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About me"
-   link: "/alyssa/"
+   link: "/personalsite/"
 # - name: "Resume"
 #   link: "resume.pdf"
  - name: "Contact"
