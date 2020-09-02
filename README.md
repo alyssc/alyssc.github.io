@@ -1,6 +1,6 @@
-# Personal site
+# Personal website built with Jekyll
 
-### [Designed by Ankit Sultana](http://ankitsultana.com/researcher)
+[Designed by Ankit Sultana](http://ankitsultana.com/researcher)
 
 ### License
 
