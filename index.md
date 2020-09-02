@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg" style="width:200px;height:200px;">
 
-Hi! I am a student at Harvard studying applied math and computer science. This website is a work-in-progress. 
+Hi! I am a student at Harvard studying applied math and computer science. This website is a work-in-progress. Testing! 
 
 ## Education
 ### Harvard University, May 2022
