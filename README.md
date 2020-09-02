@@ -1,6 +1,6 @@
 # Personal website built with Jekyll
 
-[alyssachen.me](alyssachen.me)
+[alyssachen.me](https://www.alyssachen.me)
 
 [Designed by Ankit Sultana](http://ankitsultana.com/researcher)
 
