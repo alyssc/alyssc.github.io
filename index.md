@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="me.jpg" style="width:200px;height:200px;">
+<img class="profile-picture" src="me2.jpg" style="width:170px;height:170px;">
 
 Hi! I am a student at Harvard studying applied math and computer science. This website is a work-in-progress. 
 
