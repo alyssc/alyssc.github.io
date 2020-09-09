@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-
+<!-- <a href = "" target = "_blank"> </a> -->
 ## About Me
 
 <img class="profile-picture" src="me2.jpg" style="width:170px;height:170px;">
 
-Hi! I am a student at Harvard studying applied math and computer science. This website is a work-in-progress. 
+Hi! I am a rising junior at Harvard studying applied mathematics, currently taking a semester off to pursue personal projects and <a href = "https://opportunityinsights.org/course/" target = "_blank"> self-paced courses</a>. This past summer, I worked as a data science intern at <a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a>, a secure healthcare analytics startup in Cambridge, MA, where I worked on federated learning algorithms. Alongside academic explorations, I occasionally dabble in research through labs and coursework in the areas of machine learning, algorithmic fairness, and computational neuroscience. 
+
+At Harvard, I am involved in <a href = "https://www.whrb.org/" target = "_blank"> WHRB</a>, Harvard's student-run radio station, where I currently organize remote programming as a Jazz department co-director. 
 
 ## Education
 ### Harvard University, May 2022
