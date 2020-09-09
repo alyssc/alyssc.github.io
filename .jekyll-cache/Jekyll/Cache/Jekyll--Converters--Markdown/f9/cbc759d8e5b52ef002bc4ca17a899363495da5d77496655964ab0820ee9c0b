@@ -1,11 +1,12 @@
-I"›
+I"ÿ
+<!-- <a href = "" target = "_blank"> </a> -->
 <h2 id="about-me">About Me</h2>
 
 <p><img class="profile-picture" src="me2.jpg" style="width:170px;height:170px;" /></p>
 
-<p>Hi! I am a rising junior at Harvard studying applied mathematics, currently taking a semester off to pursue personal projects and <a href="https://opportunityinsights.org/course/" target="_blank"> self-paced courses<a>. This past summer, I worked as a data science intern at <a href="https://secureailabs.com/">Secure AI Labs</a>, a healthcare analytics startup in Cambridge, MA, where I worked on federated learning algorithms. Alongside academic explorations, I occasionally dabble in research through labs and coursework in the areas of machine learning, algorithmic fairness, and computational neuroscience.</a></a></p>
+<p>Hi! I am a rising junior at Harvard studying applied mathematics, currently taking a semester off to pursue personal projects and <a href="https://opportunityinsights.org/course/" target="_blank"> self-paced courses</a>. This past summer, I worked as a data science intern at <a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a>, a secure healthcare analytics startup in Cambridge, MA, where I worked on federated learning algorithms. Alongside academic explorations, I occasionally dabble in research through labs and coursework in the areas of machine learning, algorithmic fairness, and computational neuroscience.</p>
 
-<p>At Harvard, I am involved in <a href="https://www.whrb.org/">WHRB</a>, Harvardâ€™s student-run radio station, where I currently organize remote programming as a Jazz department co-director.</p>
+<p>At Harvard, I am involved in <a href="https://www.whrb.org/" target="_blank"> WHRB</a>, Harvardâ€™s student-run radio station, where I currently organize remote programming as a Jazz department co-director.</p>
 
 <h2 id="education">Education</h2>
 <h3 id="harvard-university-may-2022">Harvard University, May 2022</h3>
@@ -15,11 +16,15 @@
 
 <h2 id="work-experience">Work Experience</h2>
 
-<h3 id="secure-ai-labs-sail--cambridge-ma--remote--may-2020---august-2020">Secure AI Labs (SAIL) | Cambridge, MA / remote | May 2020 - August 2020</h3>
+<h3><a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a></h3>
+<p>| <em>Data Science Intern</em> | |||| | May 2020 - August 2020 | Cambridge |</p>
+
 <ul>
   <li>Developed and tested an accuracy-preserving federated version of XGBoost for SAILâ€™s secure computing platform.</li>
   <li>Researched methods for developing differentially private versions of common algorithms.</li>
 </ul>
+
+<hr />
 
 <h2 id="projects">Projects</h2>
 

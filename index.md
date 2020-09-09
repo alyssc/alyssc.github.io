@@ -19,9 +19,21 @@ Machine Learning (@MIT), Data Structures and Algorithms, Biological and Artifici
 
 ## Work Experience
 
-### Secure AI Labs (SAIL) | Cambridge, MA / remote | May 2020 - August 2020
+<h3><a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a></h3>
+
+<table>
+    <tr>
+        <td class = "left">Data Science Intern</td>
+        <td class="center">May 2020 - August 2020</td>
+        <td class="right">Cambridge, MA</td>
+    </tr>   
+</table>
 * Developed and tested an accuracy-preserving federated version of XGBoost for SAIL’s secure computing platform.
 * Researched methods for developing differentially private versions of common algorithms.
+
+
+
+---
 
 ## Projects
 
