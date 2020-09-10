@@ -33,13 +33,24 @@ Similarity Analysis.
 
 
 
+<!-----
+## Projects
+[arXiV](https://arxiv.org/abs/2008.01548)-->
+
+
 ---
 
-## Research
+## Publications
 
-* C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.* [ACL Anthology](https://www.aclweb.org/anthology/2020.winlp-1.27/) [paper](https://alyssachen.me/files/acl_fairNLP.pdf) [extended paper](https://arxiv.org/abs/2008.01548)
+* C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.* 
+<br>[[ACL anthology]](https://www.aclweb.org/anthology/2020.winlp-1.27/) [[paper]](https://alyssachen.me/files/acl_fairNLP.pdf) [[recorded talk]](https://slideslive.com/38929566/defining-and-evaluating-fair-natural-language-generation)
 
 
+
+<br><br>
+<br>
+<br>
+<br>
 
 
 

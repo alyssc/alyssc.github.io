@@ -25,5 +25,5 @@ nav:
    link: "research"
  - name: "education"
    link: "education"
- - name: "contact"
-   link: "contact"
+# - name: "contact"
+#   link: "contact"

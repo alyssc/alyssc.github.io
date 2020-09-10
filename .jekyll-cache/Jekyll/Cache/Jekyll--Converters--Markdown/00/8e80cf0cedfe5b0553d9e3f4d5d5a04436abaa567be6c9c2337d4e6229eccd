@@ -1,11 +1,11 @@
-I"�<h2 id="work-experience">Work Experience</h2>
+I"<h2 id="work-experience">Work Experience</h2>
 
 <h3><a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a></h3>
 
 <table>
     <tr>
         <td class="left">Data Science Intern</td>
-        <td class="center">May 2020-August 2020</td>
+        <td class="center">May 2020–August 2020</td>
         <td class="right">Cambridge, MA</td>
     </tr>   
 </table>
@@ -19,7 +19,7 @@
 <table>
     <tr>
         <td class="left">Research Assistant</td>
-        <td class="center">June 2019-September 2019</td>
+        <td class="center">June 2019–August 2019</td>
         <td class="right">Cambridge, MA</td>
     </tr>   
 </table>
@@ -30,12 +30,22 @@ Similarity Analysis.</li>
   <li>Parallelized computing tasks using MATLAB, bash scripting, and cluster computing.</li>
 </ul>
 
+<!-----
+## Projects
+[arXiV](https://arxiv.org/abs/2008.01548)-->
+
 <hr />
 
-<h2 id="research">Research</h2>
+<h2 id="publications">Publications</h2>
 
 <ul>
-  <li>C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” <em>Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.</em></li>
+  <li>C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” <em>Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.</em> 
+<br /><a href="https://www.aclweb.org/anthology/2020.winlp-1.27/">[ACL anthology]</a> <a href="https://alyssachen.me/files/acl_fairNLP.pdf">[paper]</a> <a href="https://slideslive.com/38929566/defining-and-evaluating-fair-natural-language-generation">[recorded talk]</a></li>
 </ul>
+
+<p><br /><br />
+<br />
+<br />
+<br /></p>
 
 :ET
