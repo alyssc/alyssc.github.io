@@ -1,4 +1,4 @@
-I"Y<!-- <a href = "" target = "_blank"> </a> -->
+I"L<!-- <a href = "" target = "_blank"> </a> -->
 <h2 id="about-me">About Me</h2>
 
 <p><img class="profile-picture" src="profpics/2b.jpg" style="width:170px;height:170px;" /></p>
@@ -8,36 +8,6 @@
 <p>On campus, I am also involved in <a href="https://www.whrb.org/" target="_blank"> WHRB</a>, Harvard’s student-run radio station, where I currently organize remote programming as a Jazz department co-director.</p>
 
 <p>Contact me at <a href="mailto:alyssachen@college.harvard.edu">alyssachen@college.harvard.edu</a> to talk about my projects and experience or anything else—job opportunities, tech, social impact, philosophy, music, etc.</p>
-
-<h2 id="education">Education</h2>
-<h3 id="harvard-university-may-2022">Harvard University, May 2022</h3>
-
-<h4 id="selected-coursework">Selected Coursework</h4>
-<p>Machine Learning (@MIT), Data Structures and Algorithms, Biological and Artificial Intelligence, Economics of Networks, Fairness and Validity in Algorithms (graduate), Group Theory, Probability, Statistical Inference, Theoretical Linear Algebra, Real Analysis, Public Speaking Practicum, Physics: Mechanics and Special Relativity</p>
-
-<h2 id="work-experience">Work Experience</h2>
-
-<h3><a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a></h3>
-
-<table>
-    <tr>
-        <td class="left">Data Science Intern</td>
-        <td class="center">May 2020 - August 2020</td>
-        <td class="right">Cambridge, MA</td>
-    </tr>   
-</table>
-<ul>
-  <li>Developed and tested an accuracy-preserving federated version of XGBoost for SAIL’s secure computing platform.</li>
-  <li>Researched methods for developing differentially private versions of common algorithms.</li>
-</ul>
-
-<hr />
-
-<h2 id="projects">Projects</h2>
-
-<ul>
-  <li>C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” <em>Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.</em></li>
-</ul>
 
 <!-- ## Typography
 

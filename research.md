@@ -2,6 +2,44 @@
 layout: default
 ---
 
-## Research and Projects
+## Work Experience
 
-* C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.*
+<h3><a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a></h3>
+
+<table>
+    <tr>
+        <td class = "left">Data Science Intern</td>
+        <td class="center">May 2020–August 2020</td>
+        <td class="right">Cambridge, MA</td>
+    </tr>   
+</table>
+* Developed and tested an accuracy-preserving federated version of XGBoost for SAIL’s secure computing platform.
+* Researched methods for developing differentially private versions of common algorithms.
+
+
+<h3>Harvard Cognitive Computational Neuroscience Lab</h3>
+
+<table>
+    <tr>
+        <td class = "left">Research Assistant</td>
+        <td class="center">June 2019–August 2019</td>
+        <td class="right">Cambridge, MA</td>
+    </tr>   
+</table>
+* Studied mechanisms of biological and artificial intelligence in interdepartmental project at Samuel Gershman’s Lab.
+* Calculated correlation in performance of 4-layer RNNs and 8 major language areas of the brain using Representational
+Similarity Analysis.
+* Parallelized computing tasks using MATLAB, bash scripting, and cluster computing.
+
+
+
+---
+
+## Research
+
+* C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.* [ACL Anthology](https://www.aclweb.org/anthology/2020.winlp-1.27/) [paper](https://alyssachen.me/files/acl_fairNLP.pdf) [extended paper](https://arxiv.org/abs/2008.01548)
+
+
+
+
+

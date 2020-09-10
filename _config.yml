@@ -17,13 +17,13 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About me"
+ - name: "about me"
    link: "/"
 # - name: "Resume"
 #   link: "resume.pdf"
- - name: "Research and Work"
+ - name: "research and work"
    link: "research"
- - name: "Education"
+ - name: "education"
    link: "education"
- - name: "Contact"
+ - name: "contact"
    link: "contact"

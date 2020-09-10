@@ -12,34 +12,6 @@ On campus, I am also involved in <a href = "https://www.whrb.org/" target = "_bl
 
 Contact me at [alyssachen@college.harvard.edu](mailto:alyssachen@college.harvard.edu) to talk about my projects and experience or anything else---job opportunities, tech, social impact, philosophy, music, etc. 
 
-## Education
-### Harvard University, May 2022
-
-#### Selected Coursework 
-Machine Learning (@MIT), Data Structures and Algorithms, Biological and Artificial Intelligence, Economics of Networks, Fairness and Validity in Algorithms (graduate), Group Theory, Probability, Statistical Inference, Theoretical Linear Algebra, Real Analysis, Public Speaking Practicum, Physics: Mechanics and Special Relativity
-
-
-## Work Experience
-
-<h3><a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a></h3>
-
-<table>
-    <tr>
-        <td class = "left">Data Science Intern</td>
-        <td class="center">May 2020 - August 2020</td>
-        <td class="right">Cambridge, MA</td>
-    </tr>   
-</table>
-* Developed and tested an accuracy-preserving federated version of XGBoost for SAIL’s secure computing platform.
-* Researched methods for developing differentially private versions of common algorithms.
-
-
-
----
-
-## Projects
-
-* C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.*
 
 <!-- ## Typography
 
