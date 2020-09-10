@@ -26,23 +26,36 @@ layout: default
         <td class="right">Cambridge, MA</td>
     </tr>   
 </table>
+
 * Studied mechanisms of biological and artificial intelligence in interdepartmental project at Samuel Gershman’s Lab.
 * Calculated correlation in performance of 4-layer RNNs and 8 major language areas of the brain using Representational
 Similarity Analysis.
 * Parallelized computing tasks using MATLAB, bash scripting, and cluster computing.
 
+<br>
 
+----
 
-<!-----
 ## Projects
-[arXiV](https://arxiv.org/abs/2008.01548)-->
 
+### Defining and Evaluating Fair Natural Language Generation
+* Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models
+* Evaluated gender bias GPT-2 and XLNet using novel fairness framework <br>[[arXiV]](https://arxiv.org/abs/2008.01548)
+
+
+### Transfer Learning for Sketch Recognition with PyTorch
+* Investigated performance of a pretrained VGG16 model on classification of 168 hand-drawn sketches from the TU-Berlin
+dataset using PyTorch.
+* Modified VGG16 using transfer learning techniques (eg. fixed feature extraction) to achieve higher validation accuracy on
+sketches.<br>[[report]](https://alyssachen.me/files/PyTorch_transferlearning.pdf) [[Colab notebook]](https://github.com/alyssc/Neuro140/blob/master/Neuro140AlyssaChen.ipynb) 
+
+<br>
 
 ---
 
 ## Publications
 
-* C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.* 
+* C. Yeo, **A. Chen**: “Defining and Evaluating Fair Natural Language Generation.” *Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.* 
 <br>[[ACL anthology]](https://www.aclweb.org/anthology/2020.winlp-1.27/) [[paper]](https://alyssachen.me/files/acl_fairNLP.pdf) [[recorded talk]](https://slideslive.com/38929566/defining-and-evaluating-fair-natural-language-generation)
 
 

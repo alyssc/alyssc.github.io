@@ -16,26 +16,38 @@
   clear: both;
 }
 
+body {
+    margin: 0;
+    font-family: "Noto Serif JP", Palatino, Georgia, sans-serif;
+    font-size: 90%;
+    height: 100%;
+    background-color: #FFFAF6;
+} 
+
+h3,h4,h5 {
+    margin: 20px 0 0 0;
+}
+
+p{
+    margin: 5px 0 5px 0;
+}
+
 html {
     height: 100%;
     margin: 0;
     padding: 0;
 
 }
-body {
-    margin: 0;
-    font-family: "Noto Serif JP", Palatino, Georgia, sans-serif;
-    font-size: 90%;
-    height: 100%;
-    background-color: #FFFFFF;
-} 
+
 a {
     text-decoration: none;
     color: $accent;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 hr {
     border: 0;
     height: 0;

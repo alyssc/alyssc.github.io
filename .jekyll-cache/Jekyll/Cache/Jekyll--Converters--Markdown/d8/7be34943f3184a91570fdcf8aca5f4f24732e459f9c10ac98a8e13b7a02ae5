@@ -1,4 +1,4 @@
-I"<h2 id="work-experience">Work Experience</h2>
+I"(<h2 id="work-experience">Work Experience</h2>
 
 <h3><a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a></h3>
 
@@ -23,6 +23,7 @@
         <td class="right">Cambridge, MA</td>
     </tr>   
 </table>
+
 <ul>
   <li>Studied mechanisms of biological and artificial intelligence in interdepartmental project at Samuel Gershman’s Lab.</li>
   <li>Calculated correlation in performance of 4-layer RNNs and 8 major language areas of the brain using Representational
@@ -30,16 +31,34 @@ Similarity Analysis.</li>
   <li>Parallelized computing tasks using MATLAB, bash scripting, and cluster computing.</li>
 </ul>
 
-<!-----
-## Projects
-[arXiV](https://arxiv.org/abs/2008.01548)-->
+<p><br /></p>
+
+<hr />
+
+<h2 id="projects">Projects</h2>
+
+<h3 id="defining-and-evaluating-fair-natural-language-generation">Defining and Evaluating Fair Natural Language Generation</h3>
+<ul>
+  <li>Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models</li>
+  <li>Evaluated gender bias GPT-2 and XLNet using novel fairness framework <br /><a href="https://arxiv.org/abs/2008.01548">[arXiV]</a></li>
+</ul>
+
+<h3 id="transfer-learning-for-sketch-recognition-with-pytorch">Transfer Learning for Sketch Recognition with PyTorch</h3>
+<ul>
+  <li>Investigated performance of a pretrained VGG16 model on classification of 168 hand-drawn sketches from the TU-Berlin
+dataset using PyTorch.</li>
+  <li>Modified VGG16 using transfer learning techniques (eg. fixed feature extraction) to achieve higher validation accuracy on
+sketches.<br /><a href="https://alyssachen.me/files/PyTorch_transferlearning.pdf">[report]</a> <a href="https://github.com/alyssc/Neuro140/blob/master/Neuro140AlyssaChen.ipynb">[Colab notebook]</a></li>
+</ul>
+
+<p><br /></p>
 
 <hr />
 
 <h2 id="publications">Publications</h2>
 
 <ul>
-  <li>C. Yeo, A. Chen: “Defining and Evaluating Fair Natural Language Generation.” <em>Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.</em> 
+  <li>C. Yeo, <strong>A. Chen</strong>: “Defining and Evaluating Fair Natural Language Generation.” <em>Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.</em> 
 <br /><a href="https://www.aclweb.org/anthology/2020.winlp-1.27/">[ACL anthology]</a> <a href="https://alyssachen.me/files/acl_fairNLP.pdf">[paper]</a> <a href="https://slideslive.com/38929566/defining-and-evaluating-fair-natural-language-generation">[recorded talk]</a></li>
 </ul>
 

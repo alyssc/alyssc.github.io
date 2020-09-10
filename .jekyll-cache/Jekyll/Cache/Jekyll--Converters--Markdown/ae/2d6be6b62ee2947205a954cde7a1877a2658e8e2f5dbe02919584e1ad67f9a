@@ -1,14 +1,11 @@
----
-layout: default
----
-<!-- <a href = "" target = "_blank"> </a> -->
-## Education
-### Harvard University, May 2022
-A.B./S.M. Candidate in Applied Mathematics (Neuroscience) and Computer Science
+I"B<!-- <a href = "" target = "_blank"> </a> -->
+<h2 id="education">Education</h2>
+<h3 id="harvard-university-may-2022">Harvard University, May 2022</h3>
+<p>A.B./S.M. Candidate in Applied Mathematics (Neuroscience) and Computer Science</p>
 
-### Selected Coursework 
+<h3 id="selected-coursework">Selected Coursework</h3>
 <div class="row">
-  <div class="column" style = "margin:0 0 0 0; width: 52%">
+  <div class="column" style="margin:0 0 0 0; width: 52%">
   	<ul>
   		<li>CS 124: Data Structures and Algorithms (Teaching Fellow)</li>
   		<li>MIT 6.036: Machine Learning</li>
@@ -18,7 +15,7 @@ A.B./S.M. Candidate in Applied Mathematics (Neuroscience) and Computer Science
    		<li>Math 122: Theory of Groups and Vector Spaces</li>
   	</ul>
   </div>
-  <div class="column" style = "width:48%">
+  <div class="column" style="width:48%">
   	<ul>
   		<li>Stat 110: Probability</li>
   		<li>Stat 111: Statistical Inference</li>
@@ -29,3 +26,4 @@ A.B./S.M. Candidate in Applied Mathematics (Neuroscience) and Computer Science
   	</ul>
   </div>
 </div>
+:ET
