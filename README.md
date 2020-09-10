@@ -2,7 +2,7 @@
 
 [alyssachen.me](https://www.alyssachen.me)
 
-[Designed by Ankit Sultana](http://ankitsultana.com/researcher)
+[Design based on Researcher theme](http://ankitsultana.com/researcher)
 
 ### License
 
