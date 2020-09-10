@@ -47,7 +47,7 @@ Similarity Analysis.
 * Investigated performance of a pretrained VGG16 model on classification of 168 hand-drawn sketches from the TU-Berlin
 dataset using PyTorch.
 * Modified VGG16 using transfer learning techniques (eg. fixed feature extraction) to achieve higher validation accuracy on
-sketches.<br>[[report]](https://alyssachen.me/files/PyTorch_transferlearning.pdf) [[Colab notebook]](https://github.com/alyssc/Neuro140/blob/master/Neuro140AlyssaChen.ipynb) 
+sketches.<br>[[report]](https://alyssachen.me/files/pytorch.pdf) [[Colab notebook]](https://github.com/alyssc/Neuro140/blob/master/Neuro140AlyssaChen.ipynb) 
 
 <br>
 
