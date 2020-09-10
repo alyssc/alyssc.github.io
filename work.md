@@ -39,8 +39,8 @@ Similarity Analysis.
 ## Projects
 
 ### Defining and Evaluating Fair Natural Language Generation
-* Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models
-* Evaluated gender bias in GPT-2 and XLNet using novel fairness framework <br>[[arXiV]](https://arxiv.org/abs/2008.01548)
+* Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models.
+* Evaluated gender bias in GPT-2 and XLNet using novel fairness framework. <br>[[arXiV]](https://arxiv.org/abs/2008.01548)
 
 
 ### Transfer Learning for Sketch Recognition with PyTorch

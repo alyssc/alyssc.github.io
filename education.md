@@ -8,7 +8,7 @@ A.B./S.M. Candidate in Applied Mathematics (Neuroscience) and Computer Science
 
 ### Selected Coursework 
 <div class="row">
-  <div class="column" style = "margin:0 0 0 0; width: 52%">
+  <div class="column">
   	<ul>
   		<li>CS 124: Data Structures and Algorithms (Teaching Fellow)</li>
   		<li>MIT 6.036: Machine Learning</li>
@@ -18,7 +18,7 @@ A.B./S.M. Candidate in Applied Mathematics (Neuroscience) and Computer Science
    		<li>Math 122: Theory of Groups and Vector Spaces</li>
   	</ul>
   </div>
-  <div class="column" style = "width:48%">
+  <div class="column">
   	<ul>
   		<li>Stat 110: Probability</li>
   		<li>Stat 111: Statistical Inference</li>
