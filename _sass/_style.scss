@@ -95,6 +95,44 @@ hr {
     float: right;
 }
 
+/* Blog */
+// index
+.post-card{
+    margin-top:1em;
+    margin-bottom:1em;
+    .title{
+        max-width: 500px;
+        // color: #272727;
+        display: inline-block;
+    }
+    .details{
+        @extend .pull-right;
+        text-align: right;
+        margin-left: 20px;
+    }
+    .subtitle{
+        max-width: 500px;
+    }
+}
+
+.no-post{
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+// pages
+
+.page-title{
+    text-align: center;
+    font-weight: bold;
+    line-height: 2;
+}
+.page-subtitle{
+    text-align: center;
+    margin-bottom: 1em;
+}
+
 /* Divs */
 
 .container {
