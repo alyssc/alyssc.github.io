@@ -1,6 +1,4 @@
-I"ã	<p>This post is written in markdown, but you can also write a <a href="/2020/02/27/html-posts.html">post using html</a>.</p>
-
-<p><span class="color-red">[NEW]:</span> Now you can also create a private post, which will not be visible on the blog homepage, but is accessible via a URL. See <a href="/2020/04/05/private-example.html">this secret post</a> as an example.</p>
+I"	<p><span class="color-red">[NEW]:</span> Now you can also create a private post, which will not be visible on the blog homepage, but is accessible via a URL.</p>
 
 <p>Posts should be named as <code class="highlighter-rouge">%yyyy-%mm-%dd-your-post-title-here.md</code>, and placed in the <code class="highlighter-rouge">_posts/</code> directory. Drafts can be kept in <code class="highlighter-rouge">_drafts/</code> directory.</p>
 
