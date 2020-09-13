@@ -2,8 +2,5 @@
 
 [alyssachen.me](https://www.alyssachen.me)
 
-[Design based on Researcher theme](http://ankitsultana.com/researcher)
-
-### License
-
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+Design based on Ankit Sultana's [Researcher theme](http://ankitsultana.com/researcher)
+Added blog functionality thanks to pro-panda's [Parchment](https://github.com/pro-panda/parchment/)
