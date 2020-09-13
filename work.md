@@ -60,10 +60,7 @@ sketches.<br>[[report]](https://alyssachen.me/files/pytorch.pdf) [[Google Colab]
 
 
 
-<br><br>
-<br>
-<br>
-<br>
+
 
 
 

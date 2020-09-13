@@ -64,7 +64,13 @@
                     {% if x.name == "Resume" %}
                         <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list">
+                            {% if x.absolute-link %}
+                                {% assign x-url = x.absolute-link %}
+                            {% else %}
+                                {% assign x-url = site.url | append: site.baseurl | append: "/" | append: x.link %}
+                            {% endif %}
+                            <a href="{{ x-url }}">{{ x.name }}</a>
                     {% endif %}
                     {% if forloop.last == false %}
                           &nbsp&nbsp
