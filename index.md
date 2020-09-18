@@ -6,14 +6,17 @@ layout: default
 
 <img class="profile-picture" src="profpics/2b.jpg" style="width:170px;height:170px;">
 
-Hi! I am a rising junior at Harvard studying applied mathematics, currently taking a semester off to pursue personal projects and <a href = "https://opportunityinsights.org/course/" target = "_blank"> self-paced courses</a>. This past summer, I worked on federated learning algorithms as a data science intern at <a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a>, a secure healthcare analytics startup in Cambridge, MA. Alongside academic explorations, I dabble in research through labs and independently in the areas of machine learning, algorithmic fairness, and computational neuroscience. 
+Hi! I am a rising junior at Harvard studying applied mathematics, currently taking a semester off to pursue projects and self-paced courses. This past summer, I worked on federated learning algorithms as a data science intern at <a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a>, a secure healthcare analytics startup in Cambridge, MA. Alongside academic coursework, I dabble in research through labs and independently in the areas of machine learning, algorithmic fairness, and computational neuroscience. 
 <br><br>
-I currently organize remote programming and events as a Jazz department co-director for <a href = "https://www.whrb.org/" target = "_blank"> WHRB</a>, Harvard's student-run radio station. 
+I also currently organize remote programming and events as a Jazz department co-director for <a href = "https://www.whrb.org/" target = "_blank"> WHRB</a>, Harvard's student-run radio station. 
 <br><br>
 Contact me at [alyssachen@college.harvard.edu](mailto:alyssachen@college.harvard.edu) to talk about my work or anything else---job opportunities, tech, social impact, philosophy, music, poetry, etc. 
 
 
 <!-- ## Typography
+
+steam: https://iop.harvard.edu/get-involved/steam
+the opportunity project: https://opportunity.census.gov/sprints/
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
