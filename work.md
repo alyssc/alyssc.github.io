@@ -38,10 +38,14 @@ Similarity Analysis.
 
 ## Projects
 
+### The Education Epidemic: Visualizing the barriers to remote learning
+* Extracted and cleaned data for visualizations from the U.S. Census Bureau's [American Community Survey](https://usa.ipums.org/usa-action/variables/group) using Pandas. 
+* Designed and wrote content for website. 
+<br> [[demo]](https://youtu.be/5eSAbdw-d3M) [[code]](https://github.com/eelegiap/hackmit2020)
+
 ### Defining and Evaluating Fair Natural Language Generation
 * Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models.
 * Evaluated gender bias in GPT-2 and XLNet using novel fairness framework. <br>[[arXiV]](https://arxiv.org/abs/2008.01548)
-
 
 ### Transfer Learning for Sketch Recognition with PyTorch
 * Investigated performance of a pretrained VGG16 model on classification of 168 hand-drawn sketches from the TU-Berlin

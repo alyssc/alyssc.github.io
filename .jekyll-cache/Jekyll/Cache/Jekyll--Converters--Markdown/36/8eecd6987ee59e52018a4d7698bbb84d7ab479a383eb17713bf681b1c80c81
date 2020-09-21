@@ -1,0 +1,58 @@
+I"÷<p>Posts should be named as <code class="highlighter-rouge">%yyyy-%mm-%dd-your-post-title-here.md</code>, and placed in the <code class="highlighter-rouge">_posts/</code> directory. Drafts can be kept in <code class="highlighter-rouge">_drafts/</code> directory.</p>
+
+<hr />
+
+<p><span style="color:blue">colorful text</span></p>
+
+<p><strong>Here is a sample code snippet in C,</strong></p>
+<pre><code class="language-C">#include &lt;stdio.h&gt;
+
+int main(void){
+    printf("hello world!");
+}
+</code></pre>
+
+<p><strong>Here is a horizontal rule,</strong></p>
+
+<hr />
+
+<p><strong>Here is a blockquote,</strong></p>
+
+<blockquote>
+  <p>There is no such thing as a hopeless situation. Every single 
+circumstances of your life can change!</p>
+</blockquote>
+
+<p><strong>Here is a table,</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Subject</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>201</td>
+      <td>John</td>
+      <td>Physics</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>Doe</td>
+      <td>Chemistry</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>Samson</td>
+      <td>Biology</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Here is an image,</strong><br />
+<img src="../assets/autumn.jpg" alt="" /></p>
+
+:ET

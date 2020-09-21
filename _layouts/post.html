@@ -2,7 +2,10 @@
 layout: default
 ---
 
+{{content}}
+
 <div class="page-subtitle">
+    tags:
     {% for tag in page.tags %}
         {% if page.tags.first == tag %}
             <b>[</b>
@@ -16,4 +19,3 @@ layout: default
     {% endfor %}
 </div>
 
-{{content}}

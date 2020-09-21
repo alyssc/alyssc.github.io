@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="profpics/2b.jpg" style="width:170px;height:170px;">
 
-Hi! I am a rising junior at Harvard studying applied mathematics, currently taking a semester off to pursue projects and self-paced courses. This past summer, I worked on federated learning algorithms as a data science intern at <a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a>, a secure healthcare analytics startup in Cambridge, MA. Alongside academic coursework, I dabble in research through labs and independently in the areas of machine learning, algorithmic fairness, and computational neuroscience. 
+I am a rising junior at Harvard studying applied mathematics, currently taking a semester off to work on projects and pursue self-paced courses. These days, I spend my time building technological tools and data visualizations to mitigate marine plastics pollution under the Harvard Kennedy School Institute of Politics' <a href = "https://iop.harvard.edu/get-involved/steam" target = "_blank">STEAM Program</a> and the U.S. Census Bureau's <a href = "https://opportunity.census.gov/sprints/" target = "_blank"> Opportunity Project</a>. This past summer, I worked on federated learning algorithms as a data science intern at <a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a>, a secure healthcare analytics startup in Cambridge, MA. 
 <br><br>
-I also currently organize remote programming and events as a Jazz department co-director for <a href = "https://www.whrb.org/" target = "_blank"> WHRB</a>, Harvard's student-run radio station. 
+At Harvard, alongside academic coursework, I dabble in research through labs and independently in the areas of machine learning, algorithmic fairness, and computational neuroscience. I also currently organize remote programming and events as a Jazz department co-director for <a href = "https://www.whrb.org/" target = "_blank"> WHRB</a>, Harvard's student-run radio station. 
 <br><br>
-Contact me at [alyssachen@college.harvard.edu](mailto:alyssachen@college.harvard.edu) to talk about my work or anything else---job opportunities, tech, social impact, philosophy, music, poetry, etc. 
+Contact me at [alyssachen@college.harvard.edu](mailto:alyssachen@college.harvard.edu) to talk about my work or anything else---job opportunities, tech, social impact, philosophy, music, etc. 
 
 
 <!-- ## Typography
