@@ -4,7 +4,7 @@ layout: default
 <!-- <a href = "" target = "_blank"> </a> -->
 ## Education
 ### Harvard University, May 2022
-A.B./S.M. Candidate in Applied Mathematics (Neuroscience) and Computer Science
+A.B. Candidate in Applied Mathematics
 
 ### Selected Coursework 
 <div class="row">
