@@ -38,10 +38,14 @@ Similarity Analysis.
 
 ## Projects
 
+### The Opportunity Project: Ocean Plastics Sprint (ongoing)
+* Conducted user research interviews to design end product. 
+* Currently extracting and cleaning federal open source data to build visualizations and tools to help mitigate ocean plastics pollution. [Click here](https://public.tableau.com/profile/alyssa.chen#!/vizhome/FishingGear/Sheet1?publish=yes) for a preview of what our team is working on! 
+
 ### The Education Epidemic: Visualizing the barriers to remote learning
 * Extracted and cleaned data for visualizations from the U.S. Census Bureau's [American Community Survey](https://usa.ipums.org/usa-action/variables/group) using Pandas. 
 * Designed and wrote content for website. 
-<br> [[demo]](https://youtu.be/5eSAbdw-d3M) [[code]](https://github.com/eelegiap/hackmit2020)
+<br> [[live demo]](https://education-epidemic.github.io/home/) [[code]](https://github.com/eelegiap/hackmit2020) 
 
 ### Defining and Evaluating Fair Natural Language Generation
 * Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models.

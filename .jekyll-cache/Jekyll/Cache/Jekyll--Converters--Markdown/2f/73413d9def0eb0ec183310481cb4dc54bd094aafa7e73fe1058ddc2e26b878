@@ -1,4 +1,4 @@
-I"û<h2 id="work-experience">Work Experience</h2>
+I"<h2 id="work-experience">Work Experience</h2>
 
 <h3><a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a></h3>
 
@@ -37,11 +37,17 @@ Similarity Analysis.</li>
 
 <h2 id="projects">Projects</h2>
 
+<h3 id="the-opportunity-project-ocean-plastics-sprint-ongoing">The Opportunity Project: Ocean Plastics Sprint (ongoing)</h3>
+<ul>
+  <li>Conducted user research interviews to design end product.</li>
+  <li>Currently extracting and cleaning federal open source data to build visualizations and tools to help mitigate ocean plastics pollution. <a href="https://public.tableau.com/profile/alyssa.chen#!/vizhome/FishingGear/Sheet1?publish=yes">Click here</a> for a preview of what our team is working on!</li>
+</ul>
+
 <h3 id="the-education-epidemic-visualizing-the-barriers-to-remote-learning">The Education Epidemic: Visualizing the barriers to remote learning</h3>
 <ul>
   <li>Extracted and cleaned data for visualizations from the U.S. Census Bureauâ€™s <a href="https://usa.ipums.org/usa-action/variables/group">American Community Survey</a> using Pandas.</li>
   <li>Designed and wrote content for website. 
-<br /> <a href="https://youtu.be/5eSAbdw-d3M">[demo]</a> <a href="https://github.com/eelegiap/hackmit2020">[code]</a></li>
+<br /> <a href="https://education-epidemic.github.io/home/">[live demo]</a> <a href="https://github.com/eelegiap/hackmit2020">[code]</a></li>
 </ul>
 
 <h3 id="defining-and-evaluating-fair-natural-language-generation">Defining and Evaluating Fair Natural Language Generation</h3>

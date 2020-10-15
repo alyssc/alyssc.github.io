@@ -1,0 +1,78 @@
+I"<h2 id="work-experience">Work Experience</h2>
+
+<h3><a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a></h3>
+
+<table>
+    <tr>
+        <td class="left">Data Science Intern</td>
+        <td class="center">May 2020–August 2020</td>
+        <td class="right">Cambridge, MA</td>
+    </tr>   
+</table>
+<ul>
+  <li>Developed and tested an accuracy-preserving federated version of XGBoost for SAIL’s secure computing platform.</li>
+  <li>Researched methods for developing differentially private versions of common algorithms.</li>
+</ul>
+
+<h3>Harvard Cognitive Computational Neuroscience Lab</h3>
+
+<table>
+    <tr>
+        <td class="left">Research Assistant</td>
+        <td class="center">June 2019–August 2019</td>
+        <td class="right">Cambridge, MA</td>
+    </tr>   
+</table>
+
+<ul>
+  <li>Studied mechanisms of biological and artificial intelligence in interdepartmental project at Samuel Gershman’s Lab.</li>
+  <li>Calculated correlation in performance of 4-layer RNNs and 8 major language areas of the brain using Representational
+Similarity Analysis.</li>
+  <li>Parallelized computing tasks using MATLAB, bash scripting, and cluster computing.</li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+
+<h2 id="projects">Projects</h2>
+
+<h3 id="the-opportunity-project-ocean-plastics-sprint-ongoing">The Opportunity Project: Ocean Plastics Sprint (ongoing)</h3>
+<ul>
+  <li>Conducted user research interviews to design end product.</li>
+  <li>Extracting and cleaning federal open source data to build visualizations and tools to help mitigate ocean plastics pollution. <a href="https://public.tableau.com/profile/alyssa.chen#!/vizhome/FishingGear/Sheet1?publish=yes">Click here</a> for a preview of what our team is working on!</li>
+</ul>
+
+<h3 id="the-education-epidemic-visualizing-the-barriers-to-remote-learning">The Education Epidemic: Visualizing the barriers to remote learning</h3>
+<ul>
+  <li>Extracted and cleaned data for visualizations from the U.S. Census Bureau’s <a href="https://usa.ipums.org/usa-action/variables/group">American Community Survey</a> using Pandas.</li>
+  <li>Designed and wrote content for website. 
+<br /> <a href="https://education-epidemic.github.io/home/">[live demo]</a> <a href="https://github.com/eelegiap/hackmit2020">[code]</a></li>
+</ul>
+
+<h3 id="defining-and-evaluating-fair-natural-language-generation">Defining and Evaluating Fair Natural Language Generation</h3>
+<ul>
+  <li>Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models.</li>
+  <li>Evaluated gender bias in GPT-2 and XLNet using novel fairness framework. <br /><a href="https://arxiv.org/abs/2008.01548">[arXiV]</a></li>
+</ul>
+
+<h3 id="transfer-learning-for-sketch-recognition-with-pytorch">Transfer Learning for Sketch Recognition with PyTorch</h3>
+<ul>
+  <li>Investigated performance of a pretrained VGG16 model on classification of 168 hand-drawn sketches from the TU-Berlin
+dataset using PyTorch.</li>
+  <li>Modified VGG16 using transfer learning techniques (eg. fixed feature extraction) to achieve higher validation accuracy on
+sketches.<br /><a href="https://alyssachen.me/files/pytorch.pdf">[report]</a> <a href="https://github.com/alyssc/Neuro140/blob/master/Neuro140AlyssaChen.ipynb">[Google Colab]</a></li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+
+<h2 id="publications">Publications</h2>
+
+<ul>
+  <li>C. Yeo, <strong>A. Chen</strong>: “Defining and Evaluating Fair Natural Language Generation.” <em>Proceedings of the The Fourth Widening Natural Language Processing Workshop at ACL 2020.</em> 
+<br /><a href="https://www.aclweb.org/anthology/2020.winlp-1.27/">[ACL anthology]</a> <a href="https://alyssachen.me/files/acl_fairNLP.pdf">[paper]</a> <a href="https://slideslive.com/38929566/defining-and-evaluating-fair-natural-language-generation">[recorded talk]</a></li>
+</ul>
+
+:ET
