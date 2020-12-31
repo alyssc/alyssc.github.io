@@ -38,14 +38,15 @@ Similarity Analysis.
 
 ## Projects
 
-### The Opportunity Project: Ocean Plastics Sprint (ongoing)
-* Conducted user research interviews to design end product. 
-* Currently extracting and cleaning federal open source data to build visualizations and tools to help mitigate ocean plastics pollution. [Click here](https://projects.iq.harvard.edu/ghostgear) for a preview of what our team is working on! 
+### The Ghost Gear Project
+* Conducted user research interviews with NGOs and federal agencies to design end product for <a href = "https://opportunity.census.gov/sprints/" target = "_blank">The Opportunity Project's Ocean Plastics Sprint</a>. 
+* Built data visualizations of federal open-source data focusing on fishing gear pollution using Pandas and Tableau. 
+<br>[[website]](https://projects.iq.harvard.edu/ghostgear)
 
 ### The Education Epidemic: Visualizing the barriers to remote learning
 * Extracted and cleaned data for visualizations from the U.S. Census Bureau's [American Community Survey](https://usa.ipums.org/usa-action/variables/group) using Pandas. 
 * Designed and wrote content for website. 
-<br> [[live demo]](https://education-epidemic.github.io/home/) [[code]](https://github.com/eelegiap/hackmit2020) 
+<br> [[website]](https://education-epidemic.github.io/home/) [[code]](https://github.com/eelegiap/hackmit2020) 
 
 ### Defining and Evaluating Fair Natural Language Generation
 * Adapted individual fairness in classification to quantify fairness in natural language generation (NLG) models.

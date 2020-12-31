@@ -3,7 +3,7 @@ layout: default
 ---
 <!-- <a href = "" target = "_blank"> </a> -->
 ## Education
-### Harvard University, May 2022
+### Harvard University, May 2023
 A.B. Candidate in Applied Mathematics
 
 ### Selected Coursework 
@@ -12,7 +12,7 @@ A.B. Candidate in Applied Mathematics
   	<ul>
   		<li>CS 124: Data Structures and Algorithms (Teaching Fellow)</li>
   		<li>MIT 6.036: Machine Learning</li>
-  		<li>CS 226R: Fairness and Validity in Algorithms (graduate)</li>
+  		<li>CS 226R: Fairness and Validity in Algorithms (Graduate-level)</li>
   		<li>Math 25a: Theoretical Linear Algebra</li>
   		<li>Math 25b: Real Analysis</li>
    		<li>Math 122: Theory of Groups and Vector Spaces</li>
