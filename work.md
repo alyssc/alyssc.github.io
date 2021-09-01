@@ -4,13 +4,38 @@ layout: default
 
 ## Work Experience
 
+<h3>Facebook</h3>
+
+<table>
+    <tr>
+        <td class = "left">Data Science Intern</td>
+        <td class="center">May 2021–August 2021</td>
+        <td class="right">Menlo Park, CA | Remote</td>
+    </tr>   
+</table>
+* Presented 2 data-driven reports with user segmentation analyses and product recommendations to XFN Instagram Developer Platforms team. 
+* Demonstrated content quality of Instagram API-published posts using Presto, Python, and Tableau.
+* Created 20+ visualizations using Matplotlib and Tableau to illustrate API usage.
+
+<h3><a href = "https://datavant.com/" target = "_blank">Datavant</a></h3>
+
+<table>
+    <tr>
+        <td class = "left">COVID-19 Research Database Intern</td>
+        <td class="center">December 2020–May 2021</td>
+        <td class="right">San Francisco, CA | Remote</td>
+    </tr>   
+</table>
+* Supported 215 researchers from state governments (HI, MA) and universities using a pro-bono database of over 85 billion patient-level medical records held in Snowflake and Amazon WorkSpaces.
+* Wrote over 2000 lines of SQL to assist >20 research projects and to present preliminary findings to the NIA and FDA.
+
 <h3><a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a></h3>
 
 <table>
     <tr>
         <td class = "left">Data Science Intern</td>
         <td class="center">May 2020–August 2020</td>
-        <td class="right">Cambridge, MA</td>
+        <td class="right">Cambridge, MA | Remote</td>
     </tr>   
 </table>
 * Developed and tested an accuracy-preserving federated version of XGBoost for SAIL’s secure computing platform.

@@ -1,4 +1,18 @@
-I"�<h2 id="work-experience">Work Experience</h2>
+I"l<h2 id="work-experience">Work Experience</h2>
+
+<h3><a href="https://datavant.com/" target="_blank">Datavant</a></h3>
+
+<table>
+    <tr>
+        <td class="left">COVID-19 Research Database Intern</td>
+        <td class="center">December 2020–May 2021</td>
+        <td class="right">San Francisco, CA</td>
+    </tr>   
+</table>
+<ul>
+  <li>Supported 215 researchers from state governments (HI, MA) and universities using a pro-bono database of over 85 billion patient-level medical records held in Snowflake and Amazon WorkSpaces.</li>
+  <li>Wrote over 2000 lines of SQL to assist &gt;20 research projects and to present preliminary findings to the NIA and FDA.</li>
+</ul>
 
 <h3><a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a></h3>
 
@@ -37,11 +51,11 @@ Similarity Analysis.</li>
 
 <h2 id="projects">Projects</h2>
 
-<h3 id="the-opportunity-project-ocean-plastics-sprint-ongoing">The Opportunity Project: Ocean Plastics Sprint (ongoing)</h3>
+<h3 id="the-ghost-gear-project">The Ghost Gear Project</h3>
 <ul>
-  <li>Conducted user research interviews to design end product.</li>
-  <li>Currently extracting and cleaning federal open source data to build visualizations and tools to help mitigate ocean plastics pollution.  for a preview of what our team is working on!
-<a href="https://projects.iq.harvard.edu/ghostgear">[website]</a></li>
+  <li>Conducted user research interviews with NGOs and federal agencies to design end product for <a href="https://opportunity.census.gov/sprints/" target="_blank">The Opportunity Project’s Ocean Plastics Sprint</a>.</li>
+  <li>Built data visualizations of federal open-source data focusing on fishing gear pollution using Pandas and Tableau. 
+<br /><a href="https://projects.iq.harvard.edu/ghostgear">[website]</a></li>
 </ul>
 
 <h3 id="the-education-epidemic-visualizing-the-barriers-to-remote-learning">The Education Epidemic: Visualizing the barriers to remote learning</h3>

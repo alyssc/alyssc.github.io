@@ -1,0 +1,40 @@
+I"8<!-- <a href = "" target = "_blank"> </a> -->
+<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="profpics/2b.jpg" style="width:200px;height:200px;" /></p>
+
+<p>I am a junior at Harvard studying Statistics. I’m broadly interested in data science and statistics applied to public health, government, and finance. I have previously worked in data science or data-related intern roles at Facebook on the Instagram for Business team, <a href="https://datavant.com/">Datavant</a> on the <a href="https://covid19researchdatabase.org/">COVID-19 Research Database</a> team, and <a href="https://secureailabs.com/" target="_blank">Secure AI Labs</a>. 
+<br /><br />
+Contact me at <a href="mailto:alyssachen@college.harvard.edu">alyssachen@college.harvard.edu</a> to talk about my work or anything else—data, social impact, healthcare, philosophy, music, etc.</p>
+
+<!-- ## Typography
+
+steam: https://iop.harvard.edu/get-involved/steam
+the opportunity project: https://opportunity.census.gov/sprints/
+
+This is a [link](http://google.com). Something *italics* and something **bold**.
+
+Here is a table
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+Here is a horizontal rule
+
+---
+
+Here is a blockquote
+
+> To a great mind, nothing is little
+
+## References
+
+* Foo Bar: Head of Department, Placeholder Names, Lorem
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
+
+-->
+:ET

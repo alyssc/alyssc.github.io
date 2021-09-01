@@ -4,13 +4,11 @@ layout: default
 <!-- <a href = "" target = "_blank"> </a> -->
 ## About Me
 
-<img class="profile-picture" src="profpics/2b.jpg" style="width:170px;height:170px;">
+<img class="profile-picture" src="profpics/2b.jpg" style="width:200px;height:200px;">
 
-I am a rising junior at Harvard currently on a gap year. These days, I work at [Datavant](https://datavant.com/) on the [COVID-19 Research Database](https://covid19researchdatabase.org/) team to help researchers use real world health data to understand issues surrounding the COVID-19 pandemic. I previously worked on federated learning algorithms as a data science intern at <a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a>, a secure healthcare analytics startup in Cambridge, MA. 
+I am a junior at Harvard studying Statistics. I'm broadly interested in data science and statistics applied to areas such as public health, public policy, psychology, and finance. I have previously worked in data science or data-related intern roles at Facebook, [Datavant](https://datavant.com/), and <a href = "https://secureailabs.com/" target = "_blank">Secure AI Labs</a>.  
 <br><br>
-At Harvard, alongside academic coursework, I dabbled in research through labs and independently in the areas of machine learning, algorithmic fairness, and computational neuroscience. I also currently organize remote programming as a Jazz department co-director for <a href = "https://www.whrb.org/" target = "_blank"> WHRB</a>, Harvard's student-run radio station. 
-<br><br>
-Contact me at [alyssachen@college.harvard.edu](mailto:alyssachen@college.harvard.edu) to talk about my work or anything else---data, social impact, healthcare, philosophy, music, etc. 
+Check out the "Works and Projects" tab for more details on my work and past projects. Contact me at [alyssachen@college.harvard.edu](mailto:alyssachen@college.harvard.edu) to talk about my work or anything else---data, social impact, healthcare, philosophy, music, etc. 
 
 
 <!-- ## Typography
